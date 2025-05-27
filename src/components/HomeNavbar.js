@@ -723,13 +723,13 @@ const HomeNavbar = () => {
     <Container>
       <TopContainer>
         <VideoContainer
-          poster="/hotel-booking-app/images/vidposter.png"
+          poster="/images/vidposter.png"
           autoPlay
           muted
           loop
           playsInline
         >
-          <source src="/hotel-booking-app/videos/sunsetsm.mp4" type="video/mp4" />
+          <source src="/videos/sunsetsm.mp4" type="video/mp4" />
         </VideoContainer>
         <Wrapper>
           <NavContainer>
@@ -739,7 +739,7 @@ const HomeNavbar = () => {
 
             <BtnContainer>
               <span>INR</span>
-              <img src="/hotel-booking-app/images/flag.png" alt="Countries" />
+              <img src="/images/flag.png" alt="Countries" />
               <HelpOutlineOutlined className="help-icon" />
               <Link to="/register">
                 <Button className="bigBtn">List Your Property</Button>
@@ -755,7 +755,7 @@ const HomeNavbar = () => {
             {/* For Mobile Start */}
 
             <ImgAndHamburgerContainer>
-              <img src="/hotel-booking-app/images/boydp.jpg" alt="" />
+              <img src="/images/boydp.jpg" alt="" />
               <div
                 className={`hamburger ${openMenu && "close-hamburger"}`}
                 onClick={() => setOpenMenu(!openMenu)}

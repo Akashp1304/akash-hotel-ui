@@ -207,7 +207,7 @@ const Register = () => {
           </LeftContainer>
           <RightContainer>
             <HelpOutline className="help-icon" />
-            <img src="/hotel-booking-app/images/flag.png" alt="Languages" />
+            <img src="/images/flag.png" alt="Languages" />
           </RightContainer>
         </NavWrapper>
       </NavContainer>
@@ -235,15 +235,15 @@ const Register = () => {
             <p id="options-text">or use one of these options</p>
             <div>
               <img
-                src="/hotel-booking-app/images/facebook.png"
+                src="/images/facebook.png"
                 alt="facebook"
               />
             </div>
             <div>
-              <img src="/hotel-booking-app/images/google.png" alt="google" />
+              <img src="/images/google.png" alt="google" />
             </div>
             <div>
-              <img src="/hotel-booking-app/images/apple.png" alt="apple" />
+              <img src="/images/apple.png" alt="apple" />
             </div>
           </MethodContainer>
 

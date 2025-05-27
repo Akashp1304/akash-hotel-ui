@@ -197,7 +197,7 @@ const Offers = () => {
 
         <CardContainer>
           <Card>
-            <img src="/hotel-booking-app/images/flight.jpg" alt="flight" />
+            <img src="/images/flight.jpg" alt="flight" />
             <TextContainer>
               <h2>Fly away to your dream holiday</h2>
               <span>Get inspired, compare and book flights.</span>
@@ -206,7 +206,7 @@ const Offers = () => {
           </Card>
 
           <Card>
-            <img src="/hotel-booking-app/images/girlwithlappy.png" alt="girl" />
+            <img src="/images/girlwithlappy.png" alt="girl" />
             <TextContainer>
               <h2>Escape for a while</h2>
               <span>Enjoy the freedom of an extended stay on My Booking</span>

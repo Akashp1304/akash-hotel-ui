@@ -360,10 +360,10 @@ const Navbar = () => {
           </Link>
         </BtnContainer>
 
-        {/* For Mobile Start */}
+       
 
         <ImgAndHamburgerContainer>
-          <img src="/hotel-booking-app/images/boydp.jpg" alt="" />
+          <img src="/images/boydp.jpg" alt="" />
           <div
             className={`hamburger ${openMenu && "close-hamburger"}`}
             onClick={() => setOpenMenu(!openMenu)}
@@ -419,7 +419,7 @@ const Navbar = () => {
 
         {/* For Mobile Start */}
 
-        <h3>Hello, Satya Thakur</h3>
+        <h3>Hello, Akash Patil </h3>
 
         <ul className="hidden-ul">
           <Link to="/hotels" className="link">

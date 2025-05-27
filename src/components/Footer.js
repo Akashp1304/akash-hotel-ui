@@ -165,32 +165,30 @@ const Footer = () => {
       <TopContainer>
         <AboutMe>
           <PersonalInfo>
-            <h2>SP SINGH</h2>
+            <h2>Akash Patil</h2>
             <span>
-              Hi there ! I'm a MERN Stack Developer. I love to create Websites
-              and learning new Web Technologies. I have earned a B.Tech (CS) and
-              MBA (Marketing & HR) degrees.
+             I’m a frontend developer with strong experience in building modern, responsive web applications using React.js, Next.js, and Tailwind CSS. I’ve worked as a freelance developer with a Tokyo-based client (Raylac Inc.).
             </span>
           </PersonalInfo>
 
           <ContactInfo>
             <Details>
               <Call />
-              <span>+91 798246070X</span>
+              <span>+91 7249408XXX</span>
             </Details>
             <Details>
               <EmailOutlined />
-              <span> engineersatyaa@gmail.com</span>
+              <span> akashpatil13april@gmail.com</span>
             </Details>
             <Details>
               <LocationOnOutlined />
-              <span>1/1164 A Main Road, New Delhi - India</span>
+              <span> wakad, pune - India</span>
             </Details>
           </ContactInfo>
 
           <SocialMediaInfo>
             <a
-              href="https://www.linkedin.com/in/satya-pal-singh-a51309250/"
+              href="https://linkedin.com/in/akash-patil-122657224"
               title="LinkedIn Profile"
               target="_blank"
               rel="noreferrer"
@@ -198,7 +196,7 @@ const Footer = () => {
               <LinkedIn className="social-media-icon" />
             </a>
             <a
-              href="https://github.com/engineersatyaa"
+              href="https://github.com/Akashp1304"
               title="GitHub Profile"
               target="_blank"
               rel="noreferrer"
@@ -206,7 +204,7 @@ const Footer = () => {
               <GitHub className="social-media-icon" />
             </a>
             <a
-              href="https://www.naukri.com/mnjuser/profile?id=&orgn=homepage"
+              href="https://www.naukri.com/mnjuser/profile"
               title="Naukari.com Profile"
               target="_blank"
               rel="noreferrer"
@@ -417,27 +415,26 @@ const Footer = () => {
       <BottomContainer>
         <CompanyLogoList>
           <li>
-            <img src="/hotel-booking-app/images/companies/booking.png" alt="" />
+            <img src="/images/companies/booking.png" alt="" />
           </li>
           <li>
-            <img src="/hotel-booking-app/images/companies/priceline.png" alt="" />
+            <img src="/images/companies/priceline.png" alt="" />
           </li>
           <li>
-            <img src="/hotel-booking-app/images/companies/kayak.png" alt="" />
+            <img src="/images/companies/kayak.png" alt="" />
           </li>
           <li>
-            <img src="/hotel-booking-app/images/companies/agoda.png" alt="" />
+            <img src="/images/companies/agoda.png" alt="" />
           </li>
           <li>
-            <img src="/hotel-booking-app/images/companies/rentalcars.png" alt="" />
+            <img src="/images/companies/rentalcars.png" alt="" />
           </li>
           <li>
-            <img src="/hotel-booking-app/images/companies/opentable.png" alt="" />
+            <img src="/images/companies/opentable.png" alt="" />
           </li>
         </CompanyLogoList>
         <Copyright>
-          Copyright &#169; 2020 - {new Date().getFullYear()} My Booking&#8482;.
-          All rights reserved.
+         © 2025 Akash Patil – All rights reserved
         </Copyright>
       </BottomContainer>
     </Container>

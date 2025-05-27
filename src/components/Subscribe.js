@@ -177,7 +177,7 @@ const Subscribe = () => {
       </BigBlueCircle>
 
       <ImgContainer>
-        <img src="/hotel-booking-app/images/subscribe.png" alt="Subscribe" />
+        <img src="/images/subscribe.png" alt="Subscribe" />
       </ImgContainer>
     </Container>
   );
