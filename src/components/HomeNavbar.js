@@ -754,7 +754,7 @@ const HomeNavbar = () => {
             {/* For Mobile Start */}
 
             <ImgAndHamburgerContainer>
-              // <img src="/images/boydp.jpg" alt="" />
+              <img src="/images/boydp.jpg" alt="" />
               <div
                 className={`hamburger ${openMenu && "close-hamburger"}`}
                 onClick={() => setOpenMenu(!openMenu)}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel Room Booking App UI Design
 Professional Responsive UI Design, Hotel Room Booking App created with React JS, Styled Components, Material UI Icons and Google Maps API.
 
@@ -9,6 +10,10 @@ Professional Responsive UI Design, Hotel Room Booking App created with React JS,
 ## Demo
 https://engineersatyaa.github.io/hotel-booking-app/
 
+=======
+
+
+>>>>>>> 12c38133ce7af329c46cb43e1c8ab1b66206a5d8
 
 ## Screenshots
 ![phonemode1](https://user-images.githubusercontent.com/112659596/206855697-d484b8e8-5635-48f9-83cb-bc944a15630b.jpg)
